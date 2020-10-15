@@ -1,0 +1,11 @@
+Lyft has announced that it is removing 3,000 of its electric bikes from service after a braking issue has been found with them. Lyft began contacting Citi Bike customers on Sunday announcing the move. Last year, Lyft bought the company behind Citi Bike and will soon run it under its Lyft Bikes brand. In a blog post, the company revealed it “recently received a small number of reports from riders who experienced stronger than expected braking force on the front wheel.” From that blog post:
+
+Since Citi Bike first deployed pedal-assist bikes last year, riders have taken hundreds of thousands of rides and shared with us incredibly helpful and overwhelmingly positive feedback.
+
+However, we recently received a small number of reports from riders who experienced stronger than expected braking force on the front wheel. Out of an abundance of caution, we are proactively removing the pedal-assist bikes from service for the time being. We know this is disappointing to the many people who love the current experience — but reliability and safety come first.
+
+We have been hard at work on a new pedal-assist bike, and are excited to bring that to you soon. The new bike model will be accessible just by scanning a QR code and overall will be more fun to ride. In the meantime, we will quickly replace the pedal-assist bikes with classic pedal bikes.
+
+Thank you for being a member of our community.
+
+It’s unknown how many riders have been hurt by Citi Bike’s brakes malfunctioning, but it’s easy to see that a rider could be thrown from a bike if the brakes engage more strongly than intended. Indeed, the New York Times reported that’s exactly what happened to someone. Lyft says the affected bikes were located in New York; Washington, DC; and San Francisco. Since it is pulling 3,000 of its bike’s in those cities, the company will also deploy a similar number of its traditional pedal bikes so services aren’t interrupted for users.

@@ -1,0 +1,15 @@
+Lyft  is going to integrate Citi Bike into its app for some riders in New York City. Lyft acquired bike-share startup Motivate back in July and proceeded to become a one-stop transportation app in three cities in December. Now, it’s ready to do the same in New York.
+
+Beginning early next month, Lyft customers in NYC will be able to unlock CitiBikes through the Lyft app. Lyft says it picked New York as its fourth location after Washington, D.C., Los Angeles and Santa Monica, Calif. because Citi Bike is one of the most popular bikeshare systems. To date, Citi Bike has logged more than 75 million rides with a fleet of more than 12,000 bikes.
+
+Before, riders needed a special Citi Bike account but with the Lyft integration, that will no longer be necessary. The caveat is that this is only available for riders who are new to Citi Bike. Existing Citi Bike users can use it, but it’s just that those with pre-existing accounts won’t be able to link their accounts to use the Lyft app to unlock bikes just yet. But Lyft says it’s coming over the next few months.
+
+It’s worth noting, however, that Lyft had to pull CitiBike’s pedal-assist bikes off the road this past weekend after receiving reports from some riders that the brakes were too strong, resulting in some people falling off the bikes. Lyft also pulled its pedal assist bikes from San Francisco and Washington D.C.
+
+“After a small number of reports and out of an abundance of caution, we are proactively pausing our electric bikes from service,” Lyft spokesperson Julie Wood said in a statement to TechCrunch. “Safety always comes first.”
+
+It’s not clear when the pedal-assist bikes will return to the CitiBike, Ford GoBike and Capital Bikeshare fleets. Motivate first deployed pedal assist bikes in San Francisco about one year ago before more broadly deploying the bikes. Currently, Lyft is working with its suppliers and a third-party engineering firm to determine the root cause of the issue. The recall affects about 15 percent of the bikes available, but Lyft plans to temporarily replace the pedal-assist bikes with classic bikes. Meanwhile, Lyft is working on its own electric bike model that it will deploy in the near future.
+
+Since acquiring Motivate, Lyft has expanded to additional neighborhoods outside of Manhattan and agreed to put $100 million into the Citi Bike system. Over the next five years, Lyft plans to triple the number of bikes to 40,000.
+
+Lyft competitor Uber added bikes and scooters to its app last September with the launch of Mode Switch. The idea was to make it easier for people to switch between different modalities.

@@ -1,0 +1,17 @@
+Bike-sharing is coming to the Lyft app for New Yorkers.
+
+Starting in May, Lyft-owned bike-sharing company Motivate will offer its Citi Bikes directly through the Lyft app. Citi Bike has 12,000 bikes available in NYC, though this past weekend some 1,000 of the electric-assist bicycles available for rent in New York were pulled due to a braking problem.
+
+While there's no set timeline for when the electric bikes will return to the streets, Lyft has since swapped out the potentially faulty bikes with classic pedal bikes – with no electric motor to give you a boost. Bikes in the San Francisco Bay Area and Washington, D.C. were also affected. Lyft says it only pulled 15 percent of available bicycles in all three locations.
+
+"After a small number of reports and out of an abundance of caution, we are proactively pausing our electric bikes from service. Safety always comes first," said a Lyft bike spokesperson in a statement.
+
+That means that even if the e-bikes aren't back in a few weeks, traditional bikes will be available to select users in the Lyft app in NYC. Eventually Citi Bike members with a separate account will be able to link to the Lyft app. Lyft acquired Motivate last year and has slowly been bringing in the bike-share features to the ride-hail app instead of a separate app to reserve and rent the bikes.
+
+The in-app bicycle rentals are expected to make it to more cities in the coming months.
+
+Lyft explained how the app integration will work: You'll find one of the 750 Citi Bike stations, open the app, select the bike option, and punch in the five-digit code from the app into the dock to release your chosen bicycle. It'll use your Lyft account to book the bike and for payment.
+
+Lyft is known for its ride-sharing services, but last year it launched electric scooter rentals in some cities and acquired Motivate's bike-share system. Lyft has been putting together a new generation electric bicycle that will deploy soon — but until then the e-bikes that were available were the pre-acquisition Motivate-made models.
+
+Like its competitor Uber, Lyft is trying to diversify its offering well beyond the usual taxi ride.

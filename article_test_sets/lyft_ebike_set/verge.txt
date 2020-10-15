@@ -1,0 +1,13 @@
+Lyft, which owns a major bikeshare operator in the US, said it would temporarily pull its fleet of pedal-assist electric bikes in three US cities due to problems with the braking systems. The affected systems include Citi Bike in New York City, Ford GoBike in San Francisco, and Capital Bikeshare in Washington, DC.
+
+Motivate, the bike share operator owned by Lyft, made the decision out of an “abundance of caution” after receiving “a small number of reports from riders who experienced stronger than expected braking force on the front wheel,” according to a blog post. E-bike riders have reported flipping over the front handlebars after a braking problem caused the front wheel to lock up, according to multiple reports. One rider told am New York that he broke his hip after flying off an electric Citi Bike. The New York Times reports that there have been “dozens” of injuries reported.
+
+After receiving reports of injuries, Motivate reached out to Shimano, its main brake supplier, as well as a third-party engineering firm to determine the cause of the problem. The bike was designed and deployed by Motivate prior to its acquisition by Lyft. The ride-hail company, which went public last month, is also working on a new electric bike model that will be available soon. E-bikes make up around 15 percent of Motivate’s total fleet in three cities, or 3,000 of 20,000 total bikes.
+
+This represents a significant setback for Lyft, which, after completing its acquisition of Motivate last November, said it would pour $100 million into a dramatic expansion of Citi Bike in New York City. That included thousands of e-bikes, which can reach a maximum speed of about 18 miles per hour with the help of a pedal-activated motor. The bikes first arrived in New York City last August, and Citi Bike had expected to have 4,000 electric bikes on the streets by June.
+
+The company operates around 200 e-bikes in Washington (out of 4,300 total) and about 1,000 in San Francisco under the name Ford GoBike Plus. Standard bikes will replace the pedal-assist bikes, the company said.
+
+Other bike-share operators, including Uber and Lime, have criticized cities for signing exclusive deals with Lyft to operate a bike-share system. New York City is currently debating whether to lift its ban on throttle-powered e-bikes and scooters. New York is one of the last major markets to prohibit dockless vehicles.
+
+Lyft announced its acquisition of Motivate last July, a few months after Uber bought bike-share startup Jump. Both companies are jockeying to become one-stop shops for all types of available urban transportation, including cars, bikes, scooters, and more.
